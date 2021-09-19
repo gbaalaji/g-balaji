@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Balaji
 - 👀 I’m interested in Machine Learning and AlgoTrading
 - 🌱 I’m currently updating my knowledge to become an Quant-Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking continuously learning and share my algotrading strategies
 - 📫 How to reach me gbaalaji27@gmail.com
 
 <!---
