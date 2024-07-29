@@ -1,3 +1,8 @@
+<!---
+g-balaji2703/g-balaji2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <h1 align="center">Hi 👋, I'm gbaalaji</h1>
 <h3 align="center">I am an Engineer with an MBA from PSG Institute of Management, specializing in Operations and Data Analysis. With a strong passion for data analysis, stock market analysis, Quant Trading, and ALGO TRADING, I am proficient in a range of modern technologies including Python and R-programming. I am always eager to contribute to innovative technology projects and manage key initiatives that drive organizational impact. <br><br>Recently, I have developed skills as a Software Development Engineer (SDE) with a focus on Python backend, Java, FastAPI, and PostgreSQL timeseries databases. My professional journey has equipped me with the ability to design and implement efficient systems for trading and market analysis, leveraging my expertise in both technical development and strategic management. I am actively seeking opportunities where I can apply my skills and knowledge to contribute towards technological advancements and learn from a dynamic team of professionals.</h3>
 
